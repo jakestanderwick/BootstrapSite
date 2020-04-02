@@ -43,6 +43,15 @@
   }
 }
 
+.rotate{
+	transform: rotate(90deg);
+}
+
+.profile-size{
+	width: 7rem;
+	height: 14rem;
+}
+
 
 
 
