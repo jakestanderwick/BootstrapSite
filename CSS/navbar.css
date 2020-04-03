@@ -15,6 +15,14 @@
   transition: all 0.4s;
 }
 
+.page-style{
+	background-color:#DFDCDC;
+}
+
+.navbar-style{
+	background-color:#A9C0D6;
+}
+
 /* for toggle behavior */
 
 #sidebar.active {
@@ -166,4 +174,19 @@ padding-right: 1.1rem;
 .fa-reddit {
   background: #ff5700;
   color: white;
+}
+
+
+/*TEXT NEXT TO IMAGE
+-----------------------------------*/
+
+.span4 img {
+    margin-right: 10px;
+}
+.span4 .img-left {
+    float: left;
+	
+}
+.span4 .img-right {
+    float: right;
 }
